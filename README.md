@@ -5,11 +5,15 @@ This project will build a data model JAR file for importing into JBoss BPM Suite
 an external data model.
 
 
-How to build the project
-------------------------
-In project root directory:
+Install on your machine
+-----------------------
+1. [Download and unzip.](https://github.com/effectivebpmwithjbossbpm/chapter-4-acme-travel-data-model/archive/master.zip)
+
+2. Build the data model:
 
   ```
+  $ cd chapter-4-acme-travel-data-model
+
   $ mvn clean package
   ```
 
