@@ -17,6 +17,6 @@ Install on your machine
   $ mvn clean package
   ```
 
-The resulting target/acmeDataModel-1.0.jar file can be imported for use in your
+The resulting `target/acmeDataModel-1.0.jar` file can be imported for use in your
 JBoss BPM projects, see chapter 4 for details.
  
